@@ -1,2 +1,2 @@
-# LittleTrack
-some little track maybe uesed in CTPN
+# LittleTrick
+some little trick maybe uesed in CTPN
